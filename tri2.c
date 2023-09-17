@@ -39,6 +39,7 @@ else if ( n2 > n1 )
 
 else
 {
+ printf("Les nombres sont egaux   \n");
  printf(" %i = %i \n", n2, n1 );
 }
 return 0;
