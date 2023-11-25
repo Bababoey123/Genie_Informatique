@@ -1,0 +1,12 @@
+Varaibles :
+Nom: n    Type : entier    Usage: variable saisie par l'utilisateur pour afficher n fois le message.
+
+Pseudocode:
+DEBUT 
+AFFICHER : Veuillez saisir un entier 
+SAISIR n 
+POUR ( i = 1  jusqu'a i = n , incremmenter  i une fois a chaque repetition )
+AFFICHER : Hello, World !
+AFFICHER : (nouvelle ligne)
+FIN POUR
+FIN 
