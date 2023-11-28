@@ -37,10 +37,14 @@ else if ( n2 > n1 )
  printf(" %i , %i \n", n2, n1 );
 }
 
-else
+else if ( n1 = n2 )
 {
- printf("Les nombres sont egaux   \n");
  printf(" %i = %i \n", n2, n1 );
+}
+
+else 
+{
+    printf("Erreur, veuillez enter deux nombres enteirs differents \n")
 }
 return 0;
 }

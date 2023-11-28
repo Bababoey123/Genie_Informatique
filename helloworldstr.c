@@ -15,6 +15,8 @@ executer le programme ./str.out
 #define TAILLE
 int main (){
 
+    
+
 char chaine[TAILLE]="Hello,world!" ;
 
 printf("%s\n", chaine );

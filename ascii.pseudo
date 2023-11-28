@@ -1,0 +1,8 @@
+DEBUT
+INITIALISER : ascii = 0x41 
+POUR  i => 0.....26 
+AFFICHER ( ascii , decimal , hexadecimal )
+ascii <== ascii + 1 
+FIN POUR 
+FIN 
+
